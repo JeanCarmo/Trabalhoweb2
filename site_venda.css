@@ -1,0 +1,58 @@
+body{ 
+
+    background-image: url('Trabalho.jpg');
+    color: white;
+    font-family: Arial
+    
+    
+}
+
+.Todocorpo {
+    
+    margin: 0 auto;
+    padding: 0;
+    width: 1001px;
+    height: 320px;
+    
+    
+}
+
+.carrinho {
+
+height: 0   px;
+width: 300px;
+position: absolute;
+top: 20px;
+right: 50px;
+color: white;
+}
+
+.Continuar {
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+    width: 1001px;
+    height: 20px;
+}
+
+.Continuar a {
+    color: white;
+    text-align: center;
+  
+}
+
+.Cancelar {
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+    width: 1001px;
+    height: 20px;
+}
+
+.Cancelar a {
+    color: white;
+    text-align: center;
+  
+}
